@@ -1,4 +1,4 @@
-**Estimating a Restaurant's Performance with Yelp Dataset**
+**Estimating a new Restaurant's Business with Yelp Dataset**
 
 *Problem Description:* 
 The challenge lies in leveraging Yelp data to forecast restaurant performance. Yelp is a well-known website and mobile application that was established in 2004 with a primary focus on user-generated reviews and ratings of nearby companies, especially restaurants. To figure out the probability of a restaurant's success concerning popularity, client satisfaction, and longevity, a variety of elements are analyzed, including reviews, ratings, location, cuisine type, and other essential features.
